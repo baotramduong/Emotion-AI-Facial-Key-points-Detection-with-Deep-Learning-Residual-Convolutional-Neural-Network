@@ -7,3 +7,5 @@
 <img src = '../main/Data & Images/Deep Residual NN.png' />
 
 <img src = '../main/Data & Images/acc_loss_curve.png' />
+
+<img src = '../main/Data & Images/prediction.png' />
