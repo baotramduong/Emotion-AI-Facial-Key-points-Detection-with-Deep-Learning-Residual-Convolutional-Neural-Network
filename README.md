@@ -1,4 +1,4 @@
-# Emotion AI Facial Key-points Detection with Deep Residual Convolutional Neural Network
+# Emotion AI: Facial Key-points Detection with Deep Learning (Residual Convolutional Neural Network)
 
 ## Blog
 
