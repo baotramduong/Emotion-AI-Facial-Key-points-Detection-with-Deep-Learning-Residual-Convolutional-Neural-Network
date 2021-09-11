@@ -33,3 +33,7 @@ with Residual Blocks to predict facial key point coordinates from facial images.
 <img src = '../main/Data & Images/prediction.png' />
 
 ## Reference
+
+Ahmed, R. (n.d.). Emotion AI: Facial key-points detection [MOOC]. Coursera. https://www.coursera.org/projects/facial-key-point-detection.
+
+Somers, M. (2019, March 8). Emotion AI explained. MIT Sloan. Retrieved September 11, 2021, from https://mitsloan.mit.edu/ideas-made-to-matter/emotion-ai-explained.
