@@ -2,9 +2,17 @@
 
 ## Blog
 
-[Medium Blog]()
+[Medium Blog](https://baotramduong.medium.com/emotion-ai-facial-key-points-detection-with-deep-learning-residual-convolutional-neural-network-83fedd9977f2)
 
 ## Introduction
+
+In this project, we will build, train and test a Convolutional Neural Networks
+with Residual Blocks to predict facial key point coordinates from facial images. This can be used as a building block in several applications, such as:
+
+* Tracking faces in images and video
+* Analyzing facial expressions
+* Detecting dysmorphic facial signs for medical diagnosis
+* Biometrics / face recognition
 
 ## Exploratory Data Analysis
 
